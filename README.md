@@ -23,3 +23,11 @@ Advanced Java Topics (December 16, 2019)
   
  5. ArrayList / while 
   - Print an array list with 3 elements in reverse order
+
+
+
+
+
+- Environment: IntelliJ
+- Language: Java
+- Difficulties: ArrayList Tests with constructor 
